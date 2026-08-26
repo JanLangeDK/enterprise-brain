@@ -78,7 +78,7 @@ fictional, invented for this demo.
 | `service-sla-2026.md` | Contract repository | SLA-2026-0142 — covers bearings, **excludes alignment work**, 8 hour critical response |
 | `asset-p40.md` | SAP equipment record | EQ-40118, no variable frequency drive, no permanent vibration sensor, service history |
 | `opportunity-retrofit-q4.md` | CRM opportunity | 2.8 MDKK Q4 retrofit, Sydpumpe competing, spec due mid September |
-| `vestjysk-biogas-account.md` | Second customer, CRM | Same symptom on the same pump model — root cause was foundation resonance, fixed by re-grouting |
+| `bakkedal-biogas-account.md` | Second customer, CRM | Same symptom on the same pump model — root cause was foundation resonance, fixed by re-grouting |
 | `sydpumpe-competitor.md` | Internal wiki | Competitor profile, no 8 hour response north of Kolding |
 
 Three questions that need the joins:
