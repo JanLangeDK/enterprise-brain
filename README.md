@@ -14,6 +14,23 @@
 Markdown in, one memory out: **Qdrant** for meaning, **Neo4j** for structure, a Microsoft Agent
 Framework agent on **OpenAI** that can use either, and a Gradio UI on top.
 
+## The idea
+
+A customer’s knowledge rarely lives in one place. It is spread across CRM records, SAP equipment
+data, contracts, email, files, and the observations a colleague brings back from a site visit.
+Each source may be accurate on its own, but the useful answer is usually the connection between
+them: *this customer, at this site, has this asset, this problem, under this contract*.
+
+The Enterprise Brain turns those disconnected inputs into one queryable memory. It keeps the meaning
+of each passage, links the entities and relationships it mentions, and preserves the source evidence
+behind every connection. A question about an account can therefore combine semantic search with
+graph traversal and return an answer that is both useful and traceable.
+
+The document is no longer the destination. It is one possible view of the knowledge: the same
+memory can produce a briefing, a dashboard, a slide, or an agent answer. This repository is a small
+GraphRAG prototype of that idea, using markdown files as stand-ins for CRM, SAP, contract, and
+field-note sources.
+
 ```
 data/raw/*.md
       │
