@@ -1,5 +1,16 @@
 # Enterprise Brain — GraphRAG prototype
 
+<table>
+<tr>
+<td width="50%"><img src="docs/images/chatwindow.png" alt="Gradio chat UI answering an account-risk question with cited sources"></td>
+<td width="50%"><img src="docs/images/grapgh.png" alt="The extracted knowledge graph in the Neo4j browser"></td>
+</tr>
+<tr>
+<td align="center"><em>The agent, answering from both stores</em></td>
+<td align="center"><em>The open-schema graph it queries</em></td>
+</tr>
+</table>
+
 Markdown in, one memory out: **Qdrant** for meaning, **Neo4j** for structure, a Microsoft Agent
 Framework agent on **OpenAI** that can use either, and a Gradio UI on top.
 
