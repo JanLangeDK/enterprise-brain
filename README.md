@@ -2,12 +2,11 @@
 
 <table>
 <tr>
-<td width="50%"><img src="docs/images/chatwindow.png" alt="Gradio chat UI answering an account-risk question with cited sources"></td>
-<td width="50%"><img src="docs/images/grapgh.png" alt="The extracted knowledge graph in the Neo4j browser"></td>
+<td width="100%"><img src="docs/images/onememory.png" alt="one memory"></td>
+</td>
 </tr>
 <tr>
-<td align="center"><em>The agent, answering from both stores</em></td>
-<td align="center"><em>The open-schema graph it queries</em></td>
+<td align="center"><em>one memory</em></td>
 </tr>
 </table>
 
