@@ -2,11 +2,13 @@
 
 <table>
 <tr>
-<td width="100%"><img src="docs/images/onememory.png" alt="one memory"></td>
+<td width="50%"><img src="docs/images/onememory.png" alt="one memory"></td>
+<td width="50%"><img src="docs/images/chatwindow.png" alt="querying the memory"></td>
 </td>
 </tr>
 <tr>
 <td align="center"><em>one memory</em></td>
+<td align="center"><em>querying the memory</em></td>
 </tr>
 </table>
 
